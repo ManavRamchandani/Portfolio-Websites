@@ -653,7 +653,7 @@ gsap.to(".page7-inner-cir", {
     start: `top center`,
     end: `bottom top`,
     markers: true,
-    scroller: `.main`,
+    // scroller: `.main`,
     scrub: .5
   },
   backgroundColor: `#0a3bcea1`,
